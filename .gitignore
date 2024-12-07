@@ -1,0 +1,14 @@
+
+
+x64
+.idea
+.vsconfig
+.vs
+.vscode
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
